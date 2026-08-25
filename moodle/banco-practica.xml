@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>$course$/Juegos informática/Práctica/TP1 – La mochila digital</text>
+    </category>
+  </question>
+  <question type="multichoice">
+    <name><text>TP1 – Organización de materiales</text></name>
+    <questiontext format="html"><text><![CDATA[Una estudiante reúne materiales ficticios para el TP1. ¿Qué organización facilita encontrarlos después?]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[Una carpeta por unidad y nombres consistentes reducen errores y tiempo de búsqueda.]]></text></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade><penalty>0.3333333</penalty><hidden>0</hidden>
+    <single>true</single><shuffleanswers>true</shuffleanswers><answernumbering>abc</answernumbering>
+    <correctfeedback format="html"><text><![CDATA[Correcto: la estructura y los nombres previsibles ayudan a recuperar materiales.]]></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text><![CDATA[Revisá si la opción evita mezclar archivos de unidades distintas.]]></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text><![CDATA[Elegí una estructura que se pueda entender sin depender de la memoria.]]></text></incorrectfeedback>
+    <answer fraction="100" format="html"><text>Una carpeta para TP1 con subcarpetas de consignas, fuentes y entregas.</text></answer>
+    <answer fraction="0" format="html"><text>Guardar todo en el escritorio con nombres como nuevo1, nuevo2 y nuevo3.</text></answer>
+    <answer fraction="0" format="html"><text>Mezclar los archivos de todos los TPs en una sola carpeta.</text></answer>
+  </question>
+  <question type="multichoice">
+    <name><text>TP1 – Archivo comprimido</text></name>
+    <questiontext format="html"><text><![CDATA[¿Cuál es el orden más seguro para enviar una carpeta ficticia en un único archivo comprimido?]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[Primero se revisa el contenido, luego se comprime y finalmente se verifica el archivo resultante.]]></text></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade><penalty>0.3333333</penalty><hidden>0</hidden>
+    <single>true</single><shuffleanswers>true</shuffleanswers><answernumbering>abc</answernumbering>
+    <correctfeedback format="html"><text><![CDATA[Correcto: revisar, comprimir y comprobar evita enviar archivos equivocados.]]></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text><![CDATA[La secuencia debe incluir una comprobación del contenido antes de compartir.]]></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text><![CDATA[No conviene comprimir o compartir sin revisar qué contiene la carpeta.]]></text></incorrectfeedback>
+    <answer fraction="100" format="html"><text>Revisar archivos, crear el comprimido, abrirlo para comprobarlo y recién después compartirlo.</text></answer>
+    <answer fraction="0" format="html"><text>Compartir la carpeta y comprobar su contenido después.</text></answer>
+    <answer fraction="0" format="html"><text>Comprimir el escritorio completo sin revisar los archivos incluidos.</text></answer>
+  </question>
+
+  <question type="category">
+    <category><text>$course$/Juegos informática/Práctica/TP2 – Misión: bandeja segura</text></category>
+  </question>
+  <question type="multichoice">
+    <name><text>TP2 – Contraseña de estudio</text></name>
+    <questiontext format="html"><text><![CDATA[¿Cuál es una buena estrategia para proteger una cuenta ficticia de estudio?]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[Una contraseña única y un segundo factor, cuando estén disponibles, reducen el impacto de una filtración.]]></text></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade><penalty>0.3333333</penalty><hidden>0</hidden>
+    <single>true</single><shuffleanswers>true</shuffleanswers><answernumbering>abc</answernumbering>
+    <correctfeedback format="html"><text><![CDATA[Correcto: no reutilizar credenciales y activar un segundo factor es más seguro.]]></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text><![CDATA[Revisá si la opción evita reutilizar una misma contraseña.]]></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text><![CDATA[No compartas ni reutilices la contraseña de una cuenta en otros servicios.]]></text></incorrectfeedback>
+    <answer fraction="100" format="html"><text>Usar una contraseña única, no compartirla y activar un segundo factor.</text></answer>
+    <answer fraction="0" format="html"><text>Usar la misma contraseña corta para todas las cuentas.</text></answer>
+    <answer fraction="0" format="html"><text>Enviar la contraseña por correo para tener una copia.</text></answer>
+  </question>
+  <question type="multichoice">
+    <name><text>TP2 – Enlace urgente</text></name>
+    <questiontext format="html"><text><![CDATA[Un mensaje ficticio promete acceso urgente a una carpeta y contiene un enlace extraño. ¿Qué decisión es más segura?]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[La urgencia y el enlace inesperado son señales para detenerse y verificar por un canal conocido.]]></text></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade><penalty>0.3333333</penalty><hidden>0</hidden>
+    <single>true</single><shuffleanswers>true</shuffleanswers><answernumbering>abc</answernumbering>
+    <correctfeedback format="html"><text><![CDATA[Correcto: no se abre el enlace y se verifica el pedido por un canal confiable.]]></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text><![CDATA[La respuesta debe evitar abrir el enlace y también evitar responder con credenciales.]]></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text><![CDATA[No abras enlaces inesperados ni entregues datos para resolver una urgencia.]]></text></incorrectfeedback>
+    <answer fraction="100" format="html"><text>No abrirlo, revisar el remitente y consultar por un canal conocido.</text></answer>
+    <answer fraction="0" format="html"><text>Abrirlo rápidamente para que la carpeta no se bloquee.</text></answer>
+    <answer fraction="0" format="html"><text>Responder con la contraseña para confirmar la identidad.</text></answer>
+  </question>
+
+  <question type="category">
+    <category><text>$course$/Juegos informática/Práctica/TP3 – Taller de documentos</text></category>
+  </question>
+  <question type="multichoice">
+    <name><text>TP3 – Jerarquía del documento</text></name>
+    <questiontext format="html"><text><![CDATA[¿Qué combinación favorece la legibilidad de una guía ficticia?]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[Los estilos de título, el espaciado y una estructura consistente hacen visible la jerarquía.]]></text></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade><penalty>0.3333333</penalty><hidden>0</hidden>
+    <single>true</single><shuffleanswers>true</shuffleanswers><answernumbering>abc</answernumbering>
+    <correctfeedback format="html"><text><![CDATA[Correcto: estilos consistentes y espaciado suficiente ayudan a leer y navegar.]]></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text><![CDATA[Buscá una opción que organice el contenido, no solo que cambie el color.]]></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text><![CDATA[La jerarquía debe poder reconocerse por estructura y formato, no por adornos aislados.]]></text></incorrectfeedback>
+    <answer fraction="100" format="html"><text>Usar estilos de título, subtítulo y cuerpo, con espaciado y contraste suficientes.</text></answer>
+    <answer fraction="0" format="html"><text>Usar muchos colores y tamaños distintos en cada párrafo.</text></answer>
+    <answer fraction="0" format="html"><text>Escribir todo en mayúsculas y sin separación entre secciones.</text></answer>
+  </question>
+  <question type="multichoice">
+    <name><text>TP3 – Fuente de una imagen</text></name>
+    <questiontext format="html"><text><![CDATA[Al insertar una imagen de fuente abierta en un documento ficticio, ¿qué práctica completa mejor el trabajo?]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[Indicar autoría, licencia y enlace de origen permite reconocer el trabajo y verificar su uso.]]></text></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade><penalty>0.3333333</penalty><hidden>0</hidden>
+    <single>true</single><shuffleanswers>true</shuffleanswers><answernumbering>abc</answernumbering>
+    <correctfeedback format="html"><text><![CDATA[Correcto: una referencia breve y la licencia hacen transparente el uso de la imagen.]]></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text><![CDATA[Además del enlace, revisá si se informa autoría o licencia.]]></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text><![CDATA[No alcanza con copiar una imagen; hay que documentar su origen y condiciones de uso.]]></text></incorrectfeedback>
+    <answer fraction="100" format="html"><text>Agregar pie de imagen con autoría, licencia y enlace de origen.</text></answer>
+    <answer fraction="0" format="html"><text>Quitar el nombre de quien la creó para que el documento quede más limpio.</text></answer>
+    <answer fraction="0" format="html"><text>Usarla sin revisar si la licencia permite su reutilización.</text></answer>
+  </question>
+
+  <question type="category">
+    <category><text>$course$/Juegos informática/Práctica/TP4 – La planilla detective</text></category>
+  </question>
+  <question type="multichoice">
+    <name><text>TP4 – Total de una columna</text></name>
+    <questiontext format="html"><text><![CDATA[En B2:B6 hay cinco cantidades ficticias. ¿Qué fórmula obtiene el total?]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[La función SUMA agrega un rango continuo de celdas.]]></text></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade><penalty>0.3333333</penalty><hidden>0</hidden>
+    <single>true</single><shuffleanswers>true</shuffleanswers><answernumbering>abc</answernumbering>
+    <correctfeedback format="html"><text><![CDATA[Correcto: SUMA(B2:B6) incluye todas las celdas del rango.]]></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text><![CDATA[Revisá que la función abarque desde B2 hasta B6.]]></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text><![CDATA[Para totalizar un rango se necesita una función de suma, no un promedio.]]></text></incorrectfeedback>
+    <answer fraction="100" format="html"><text>=SUMA(B2:B6)</text></answer>
+    <answer fraction="0" format="html"><text>=PROMEDIO(B2:B6)</text></answer>
+    <answer fraction="0" format="html"><text>=CONTAR(B2:B6)</text></answer>
+  </question>
+  <question type="multichoice">
+    <name><text>TP4 – Error de división</text></name>
+    <questiontext format="html"><text><![CDATA[Una celda muestra #DIV/0! en una tabla ficticia. ¿Cuál es la decisión más responsable?]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[Primero se revisan los datos y el denominador; ocultar el error sin entenderlo puede producir conclusiones falsas.]]></text></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade><penalty>0.3333333</penalty><hidden>0</hidden>
+    <single>true</single><shuffleanswers>true</shuffleanswers><answernumbering>abc</answernumbering>
+    <correctfeedback format="html"><text><![CDATA[Correcto: se inspecciona el denominador y el origen del dato antes de decidir cómo mostrarlo.]]></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text><![CDATA[La prioridad es entender y corregir la causa, no solo esconder el mensaje.]]></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text><![CDATA[No conviene borrar o disimular un error sin verificar la fórmula y los datos.]]></text></incorrectfeedback>
+    <answer fraction="100" format="html"><text>Revisar la fórmula y el denominador, corregir el dato si corresponde y documentar el cambio.</text></answer>
+    <answer fraction="0" format="html"><text>Borrar la celda para que la tabla no muestre errores.</text></answer>
+    <answer fraction="0" format="html"><text>Reemplazar el error por cero sin revisar de dónde proviene.</text></answer>
+  </question>
+
+  <question type="category">
+    <category><text>$course$/Juegos informática/Práctica/TP5 – Presentaciones eficaces</text></category>
+  </question>
+  <question type="multichoice">
+    <name><text>TP5 – Jerarquía visual</text></name>
+    <questiontext format="html"><text><![CDATA[¿Qué diseño favorece la jerarquía visual de una diapositiva ficticia?]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[Una idea principal visible, poco texto y un dato de apoyo hacen más fácil seguir la explicación.]]></text></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade><penalty>0.3333333</penalty><hidden>0</hidden>
+    <single>true</single><shuffleanswers>true</shuffleanswers><answernumbering>abc</answernumbering>
+    <correctfeedback format="html"><text><![CDATA[Correcto: la diapositiva debe ayudar a escuchar y comprender, no competir con la exposición.]]></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text><![CDATA[Revisá la cantidad de texto y si se distingue una idea principal.]]></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text><![CDATA[Una diapositiva saturada dificulta la lectura y la comunicación oral.]]></text></incorrectfeedback>
+    <answer fraction="100" format="html"><text>Título claro, una idea principal, un dato de apoyo y buen contraste.</text></answer>
+    <answer fraction="0" format="html"><text>Un párrafo completo, seis colores y varias tipografías pequeñas.</text></answer>
+    <answer fraction="0" format="html"><text>Solo una imagen decorativa sin título ni fuente.</text></answer>
+  </question>
+  <question type="multichoice">
+    <name><text>TP5 – Accesibilidad de una presentación</text></name>
+    <questiontext format="html"><text><![CDATA[¿Qué combinación mejora la accesibilidad de una presentación ficticia?]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[El contraste, el tamaño legible, el texto alternativo y no depender solo del color benefician a más personas.]]></text></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade><penalty>0.3333333</penalty><hidden>0</hidden>
+    <single>true</single><shuffleanswers>true</shuffleanswers><answernumbering>abc</answernumbering>
+    <correctfeedback format="html"><text><![CDATA[Correcto: la información debe poder percibirse también sin distinguir colores o detalles pequeños.]]></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text><![CDATA[La accesibilidad combina legibilidad, contraste y alternativas textuales.]]></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text><![CDATA[No alcanza con elegir una plantilla atractiva si el texto no se puede leer.]]></text></incorrectfeedback>
+    <answer fraction="100" format="html"><text>Contraste suficiente, texto legible, texto alternativo y etiquetas además del color.</text></answer>
+    <answer fraction="0" format="html"><text>Texto muy pequeño y una clave que usa únicamente rojo y verde.</text></answer>
+    <answer fraction="0" format="html"><text>Animaciones automáticas y bajo contraste para lograr más impacto.</text></answer>
+  </question>
+
+  <question type="category">
+    <category><text>$course$/Juegos informática/Práctica/TP6 – Búsquedas básicas</text></category>
+  </question>
+  <question type="multichoice">
+    <name><text>TP6 – Consulta inicial</text></name>
+    <questiontext format="html"><text><![CDATA[¿Cuál es una búsqueda inicial clara sobre hábitos de desayuno en estudiantes universitarios ficticios?]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[Una consulta breve con conceptos principales permite revisar resultados y refinarla después.]]></text></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade><penalty>0.3333333</penalty><hidden>0</hidden>
+    <single>true</single><shuffleanswers>true</shuffleanswers><answernumbering>abc</answernumbering>
+    <correctfeedback format="html"><text><![CDATA[Correcto: la consulta contiene el tema y la población sin agregar palabras innecesarias.]]></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text><![CDATA[La consulta inicial debe ser específica, pero lo bastante breve para poder explorar resultados.]]></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text><![CDATA[Evita una frase demasiado amplia o una pregunta cargada de términos irrelevantes.]]></text></incorrectfeedback>
+    <answer fraction="100" format="html"><text>hábitos de desayuno estudiantes universitarios</text></answer>
+    <answer fraction="0" format="html"><text>todo lo que existe sobre alimentación y vida saludable en el mundo</text></answer>
+    <answer fraction="0" format="html"><text>¿por qué todas las personas desayunan exactamente igual?</text></answer>
+  </question>
+  <question type="multichoice">
+    <name><text>TP6 – Verificación de una fuente</text></name>
+    <questiontext format="html"><text><![CDATA[Encontrás un artículo ficticio útil. ¿Qué acción ayuda a ampliar y verificar la búsqueda?]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[Revisar autoría, fecha, referencias y trabajos relacionados permite evaluar y ampliar el hallazgo.]]></text></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade><penalty>0.3333333</penalty><hidden>0</hidden>
+    <single>true</single><shuffleanswers>true</shuffleanswers><answernumbering>abc</answernumbering>
+    <correctfeedback format="html"><text><![CDATA[Correcto: la fuente se contrasta y se registran sus datos antes de usarla.]]></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text><![CDATA[Además de abrir el artículo, hay que comprobar sus datos bibliográficos.]]></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text><![CDATA[La cantidad de resultados o los primeros enlaces no garantizan calidad.]]></text></incorrectfeedback>
+    <answer fraction="100" format="html"><text>Revisar autoría, fecha, referencias y artículos relacionados; registrar la cita.</text></answer>
+    <answer fraction="0" format="html"><text>Copiar el primer párrafo sin mirar quién lo publicó.</text></answer>
+    <answer fraction="0" format="html"><text>Elegir el resultado con más colores y anuncios.</text></answer>
+  </question>
+
+  <question type="category">
+    <category><text>$course$/Juegos informática/Práctica/TP7 – MeSH y DeCS</text></category>
+  </question>
+  <question type="multichoice">
+    <name><text>TP7 – Vocabulario controlado</text></name>
+    <questiontext format="html"><text><![CDATA[¿Qué es, en términos generales, un vocabulario controlado como MeSH o DeCS?]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[Es una colección organizada de términos que ayuda a describir y recuperar información de manera consistente.]]></text></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade><penalty>0.3333333</penalty><hidden>0</hidden>
+    <single>true</single><shuffleanswers>true</shuffleanswers><answernumbering>abc</answernumbering>
+    <correctfeedback format="html"><text><![CDATA[Correcto: los descriptores normalizados ayudan a reducir variaciones entre palabras.]]></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text><![CDATA[No es una lista de artículos ni un buscador; es un recurso para representar temas.]]></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text><![CDATA[Un vocabulario controlado organiza términos y relaciones conceptuales.]]></text></incorrectfeedback>
+    <answer fraction="100" format="html"><text>Una lista organizada de términos y relaciones para describir temas de forma consistente.</text></answer>
+    <answer fraction="0" format="html"><text>Un conjunto de contraseñas para ingresar a bases de datos.</text></answer>
+    <answer fraction="0" format="html"><text>Un listado de resultados ordenado solo por popularidad.</text></answer>
+  </question>
+  <question type="multichoice">
+    <name><text>TP7 – Palabra libre y descriptor</text></name>
+    <questiontext format="html"><text><![CDATA[¿Cuál es una diferencia útil entre una palabra libre y un descriptor normalizado?]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[La palabra libre sigue el texto elegido por quien busca; el descriptor pertenece a un vocabulario con reglas y relaciones.]]></text></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade><penalty>0.3333333</penalty><hidden>0</hidden>
+    <single>true</single><shuffleanswers>true</shuffleanswers><answernumbering>abc</answernumbering>
+    <correctfeedback format="html"><text><![CDATA[Correcto: combinar ambas estrategias puede ampliar y ordenar una búsqueda.]]></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text><![CDATA[La diferencia está en la normalización y las relaciones del vocabulario.]]></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text><![CDATA[No son sinónimos perfectos: cumplen funciones distintas dentro de una estrategia.]]></text></incorrectfeedback>
+    <answer fraction="100" format="html"><text>La palabra libre depende del texto elegido; el descriptor está normalizado y relacionado con otros términos.</text></answer>
+    <answer fraction="0" format="html"><text>La palabra libre siempre es más precisa que cualquier descriptor.</text></answer>
+    <answer fraction="0" format="html"><text>El descriptor es una contraseña y la palabra libre es un usuario.</text></answer>
+  </question>
+
+  <question type="category">
+    <category><text>$course$/Juegos informática/Práctica/TP8 – PubMed, BVS y SciELO</text></category>
+  </question>
+  <question type="multichoice">
+    <name><text>TP8 – Operador AND</text></name>
+    <questiontext format="html"><text><![CDATA[¿Qué efecto tiene usar AND entre dos conceptos en una búsqueda ficticia?]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[AND exige que los resultados incluyan ambos conceptos, por lo que suele acotar la búsqueda.]]></text></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade><penalty>0.3333333</penalty><hidden>0</hidden>
+    <single>true</single><shuffleanswers>true</shuffleanswers><answernumbering>abc</answernumbering>
+    <correctfeedback format="html"><text><![CDATA[Correcto: AND combina requisitos y normalmente reduce la cantidad de resultados.]]></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text><![CDATA[Compará AND con OR: uno exige la coincidencia de ambos conceptos y el otro amplía alternativas.]]></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text><![CDATA[AND no significa “cualquier término”; conecta conceptos que deben aparecer juntos.]]></text></incorrectfeedback>
+    <answer fraction="100" format="html"><text>Exige que aparezcan los dos conceptos en el resultado.</text></answer>
+    <answer fraction="0" format="html"><text>Elimina todos los resultados que incluyan cualquiera de los conceptos.</text></answer>
+    <answer fraction="0" format="html"><text>Convierte automáticamente la búsqueda en una revisión sistemática.</text></answer>
+  </question>
+  <question type="multichoice">
+    <name><text>TP8 – Registro reproducible</text></name>
+    <questiontext format="html"><text><![CDATA[¿Qué registro permite reproducir una búsqueda ficticia realizada hoy?]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[La base consultada, la fecha, la estrategia completa y los filtros permiten revisar el procedimiento.]]></text></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade><penalty>0.3333333</penalty><hidden>0</hidden>
+    <single>true</single><shuffleanswers>true</shuffleanswers><answernumbering>abc</answernumbering>
+    <correctfeedback format="html"><text><![CDATA[Correcto: documentar la estrategia y el contexto permite repetir o auditar la búsqueda.]]></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text><![CDATA[Una lista de enlaces sin fecha ni estrategia no alcanza para reproducir el proceso.]]></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text><![CDATA[La reproducibilidad depende de registrar cómo y cuándo se buscó, no solo qué resultado gustó.]]></text></incorrectfeedback>
+    <answer fraction="100" format="html"><text>Base consultada, fecha, estrategia completa, filtros y cantidad de resultados.</text></answer>
+    <answer fraction="0" format="html"><text>Solo el título del primer artículo encontrado.</text></answer>
+    <answer fraction="0" format="html"><text>Una captura sin fecha ni texto de la consulta.</text></answer>
+  </question>
+
+  <question type="category">
+    <category><text>$course$/Juegos informática/Práctica/Integrador – Misión integradora</text></category>
+  </question>
+  <question type="multichoice">
+    <name><text>Integrador – Orden de trabajo</text></name>
+    <questiontext format="html"><text><![CDATA[¿Cuál es un flujo razonable para preparar una diapositiva informativa ficticia sobre pausas activas durante el estudio?]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[Planificar, buscar, verificar, comunicar y registrar fuentes conecta las habilidades de los TPs.]]></text></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade><penalty>0.3333333</penalty><hidden>0</hidden>
+    <single>true</single><shuffleanswers>true</shuffleanswers><answernumbering>abc</answernumbering>
+    <correctfeedback format="html"><text><![CDATA[Correcto: la comunicación se apoya en una búsqueda documentada y en una presentación accesible.]]></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text><![CDATA[Revisá que la presentación no sea el primer paso: antes hay que definir y verificar.]]></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text><![CDATA[No conviene diseñar o difundir antes de saber qué pregunta se responderá y qué fuentes la sostienen.]]></text></incorrectfeedback>
+    <answer fraction="100" format="html"><text>Definir la pregunta, buscar fuentes, verificarlas, organizar el mensaje, diseñar y citar.</text></answer>
+    <answer fraction="0" format="html"><text>Diseñar primero, copiar información después y revisar las fuentes solo si sobra tiempo.</text></answer>
+    <answer fraction="0" format="html"><text>Publicar una imagen llamativa sin pregunta, fuente ni revisión.</text></answer>
+  </question>
+  <question type="multichoice">
+    <name><text>Integrador – Fuente prioritaria</text></name>
+    <questiontext format="html"><text><![CDATA[Encontrás dos fuentes ficticias para una explicación breve. ¿Cuál merece una revisión más profunda primero?]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[La relevancia temática, la autoría, la fecha, la metodología y las referencias ayudan a priorizar la revisión.]]></text></generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade><penalty>0.3333333</penalty><hidden>0</hidden>
+    <single>true</single><shuffleanswers>true</shuffleanswers><answernumbering>abc</answernumbering>
+    <correctfeedback format="html"><text><![CDATA[Correcto: la fuente se prioriza por criterios verificables, no por su apariencia.]]></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text><![CDATA[La popularidad puede orientar, pero no reemplaza la revisión de autoría y evidencia.]]></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text><![CDATA[La fuente más vistosa o más compartida no necesariamente es la más adecuada.]]></text></incorrectfeedback>
+    <answer fraction="100" format="html"><text>La que tiene autoría identificable, fecha pertinente, referencias y relación clara con la pregunta.</text></answer>
+    <answer fraction="0" format="html"><text>La que usa más colores y aparece primero sin mostrar autoría.</text></answer>
+    <answer fraction="0" format="html"><text>La que confirma la idea inicial aunque no indique método ni referencias.</text></answer>
+  </question>
+</quiz>
