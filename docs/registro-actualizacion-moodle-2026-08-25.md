@@ -18,10 +18,15 @@ Fecha de revisión: 25 de agosto de 2026.
 - El bloque “Examen parcial” contiene evaluaciones de 2025.
 - “Recursos de años anteriores” mezcla evaluaciones rotuladas 2024 y 2025, además de copias con fechas que requieren clasificación.
 
+## Estado actualizado de los bloques 3, 4 y 5
+
+- **Bloque 3:** completado en Moodle para TP1, TP3, TP5 e Integrador; cada Lección tiene un recorrido de páginas y retroalimentación.
+- **Bloque 4:** configuración y vista previa docente verificadas; queda la comprobación final con una cuenta estudiante para confirmar informe individual y libro de calificaciones.
+- **Bloque 5:** auditoría documental creada en `docs/auditoria-materiales-enlaces.md`; los recursos que requieren permisos o revisión de contenido permanecen marcados como **verificar**.
+
 ## Pendientes de la siguiente intervención
 
 1. Crear o rotular dos zonas históricas: `Exámenes 2024` y `Exámenes 2025`.
 2. Ocultar el archivo histórico a estudiantes y conservar una relación de recurso, comisión, fecha y estado.
-3. Importar el banco Moodle de práctica y crear las actividades principales según `moodle/matriz-actividades.md`.
-4. Probar finalización, calificación para aprobar, intentos y restricciones con una cuenta estudiante.
-5. Revisar enlaces, fechas y materiales externos restantes.
+3. Ejecutar una prueba completa de finalización con una cuenta estudiante y verificar el libro de calificaciones.
+4. Cerrar la revisión de enlaces, permisos, fechas y materiales externos antiguos.
