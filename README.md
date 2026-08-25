@@ -10,7 +10,7 @@ La primera fase construye todas las misiones antes de intervenir sobre el archiv
 
 Abrir `index.html` en un navegador o publicarlo como sitio estático. No requiere servidor ni dependencias externas.
 
-El progreso se guarda localmente en el navegador. La guía de integración con Moodle está en [docs/moodle.md](docs/moodle.md), y la propuesta de organización externa en [docs/drive-github.md](docs/drive-github.md).
+El progreso se guarda localmente en el navegador. 
 
 Repositorio: [manwithbarba/juegos_inform-tica](https://github.com/manwithbarba/juegos_inform-tica). Tras activar GitHub Pages, el sitio estará disponible en [manwithbarba.github.io/juegos_inform-tica](https://manwithbarba.github.io/juegos_inform-tica/).
 
