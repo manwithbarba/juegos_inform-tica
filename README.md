@@ -1,10 +1,10 @@
 # Juegos de Informática en Ciencias de la Salud
 
-Prototipo estático de actividades lúdicas para los TP 1–8 de Informática en Ciencias de la Salud.
+Prototipo estático de actividades lúdicas para los TP de Informática en Ciencias de la Salud (UNLP-UNMdP).
 
 ## Estado
 
-La primera fase construye todas las misiones antes de intervenir sobre el archivo histórico del curso. Incluye nueve experiencias: TP 1 a TP 8 y un desafío integrador.
+La primera fase construye todas las misiones antes de intervenir sobre el archivo histórico del curso de Informática para la Licenciatura de Nutrición de la Facultad de Ciencias Médicas de la UNLP. Incluye nueve experiencias: TP 1 a TP 8 y un desafío integrador.
 
 ## Cómo probarlo
 
