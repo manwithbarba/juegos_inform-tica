@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#17324d">
+  <title>Juegos de Informática · Ciencias de la Salud</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">Saltar al contenido</a>
+  <header class="site-header">
+    <div class="brand">
+      <span class="brand-mark" aria-hidden="true">✦</span>
+      <div>
+        <p class="eyebrow">Informática en Ciencias de la Salud</p>
+        <h1>Juegos de aprendizaje</h1>
+      </div>
+    </div>
+    <button class="button button-quiet" id="reset-progress" type="button">Reiniciar progreso</button>
+  </header>
+
+  <main id="main" class="page-shell">
+    <section class="hero" aria-labelledby="intro-title">
+      <div>
+        <p class="eyebrow">Recorrido interactivo</p>
+        <h2 id="intro-title">Aprendé resolviendo misiones breves</h2>
+        <p>Practicá los contenidos de los TP 1 a 8 con decisiones, pistas y devoluciones inmediatas. El progreso de esta versión de prueba se guarda en este navegador.</p>
+      </div>
+      <div class="hero-stats" aria-label="Resumen del progreso">
+        <span><strong id="completed-count">0</strong><small>juegos completados</small></span>
+        <span><strong id="total-score">0</strong><small>puntos acumulados</small></span>
+      </div>
+    </section>
+
+    <section aria-labelledby="games-title">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">Misiones</p>
+          <h2 id="games-title">Elegí un desafío</h2>
+        </div>
+        <p class="section-note">Podés volver a intentar cada juego para mejorar tu resultado.</p>
+      </div>
+      <div id="game-grid" class="game-grid" aria-live="polite"></div>
+    </section>
+
+    <section class="teacher-note" aria-labelledby="teacher-title">
+      <div>
+        <p class="eyebrow">Versión de trabajo</p>
+        <h2 id="teacher-title">Pensado para Moodle</h2>
+        <p>La publicación web sirve como prototipo y demostración. Para registrar calificaciones y finalización en Moodle, cada misión debe acompañarse con su Lección, Cuestionario o actividad H5P correspondiente.</p>
+      </div>
+      <a class="button button-secondary" href="docs/moodle.md">Ver guía de integración</a>
+    </section>
+  </main>
+
+  <div id="game-dialog" class="dialog-backdrop" hidden>
+    <section class="game-dialog" role="dialog" aria-modal="true" aria-labelledby="game-dialog-title">
+      <div id="game-dialog-content"></div>
+    </section>
+  </div>
+
+  <script src="js/core.js"></script>
+  <script src="games/tp01-computadora.js"></script>
+  <script src="games/tp02-seguridad.js"></script>
+  <script src="games/tp03-procesador.js"></script>
+  <script src="games/tp04-calculo.js"></script>
+  <script src="games/tp05-presentaciones.js"></script>
+  <script src="games/tp06-busqueda-basica.js"></script>
+  <script src="games/tp07-mesh-decs.js"></script>
+  <script src="games/tp08-pubmed.js"></script>
+  <script src="games/integrador.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
